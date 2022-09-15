@@ -1,4 +1,4 @@
-# 🛡 Diretório do Bootcamp - DIO Database Experience 🛡
+# 🛡 Bootcamp - DIO Database Experience 🛡
 <p>Diretorio de projetos, codigos e estudos dos cusos realizados na plataforma DIO.</p>
 
 
